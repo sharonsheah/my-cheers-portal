@@ -7,7 +7,16 @@ You'll be writing + deploying the smart contract and you'll also be building the
 People can connect their Ethereum wallets on the Rinkeby network and interact with the CheersPortal smart contract through the website. When someone sends a cheers, there is a random chance they can win a small amount of Ethereum from the CheersPortal.
 
 Contract Address: https://rinkeby.etherscan.io/address/0x85cd1b74c178feCf1904e6f7E2696f4c795faB94
+
 Frontend built on Repl.it: https://replit.com/@sharonsheah/waveportal
+
 Website: https://waveportal.sharonsheah.repl.co/
+
+Tools used:
+- Hardhat
+- Alchemy
+- Repl.it
+- Ethers.js
+- React
 
 This project was created following _buildspace content
